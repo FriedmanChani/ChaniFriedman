@@ -13,17 +13,11 @@ Tools: Visual Studio, VS Code, Git, npm, Webpack, Docker
 Databases: SQL Server, MongoDB
 APIs: RESTful APIs, Token-based Authentication
 
+
 🌟 Highlights: 
 Full-stack development with a focus on delivering clean, maintainable code.
 Experience in implementing token-based authentication and secure API interactions.
 Enthusiastic about exploring new technologies and contributing to open-source projects.
-
-👀 I’m interested in: 
-Exploring Emerging Technologies: Always eager to dive into the latest advancements in tech, from cutting-edge frameworks to innovative tools that can enhance development workflows.
-Building Scalable Applications: Passionate about designing systems that handle growth gracefully and provide seamless experiences for users.
-Open-Source Contributions: Excited about collaborating on open-source projects and giving back to the community by sharing knowledge and improving existing solutions.
-User Experience Design: Interested in creating intuitive, user-friendly interfaces that not only look great but also provide an outstanding user experience.
-Continuous Learning: Committed to lifelong learning and staying updated with industry trends through courses, tutorials, and hands-on practice.
 
 
 <!---
