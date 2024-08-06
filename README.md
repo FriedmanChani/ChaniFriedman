@@ -10,7 +10,6 @@ Feel free to explore my projects and contributions!
 
 ## 🛠️ Technologies & Tools
 
-```plaintext
 - **Languages**: 
   - C#
   - Java
@@ -38,8 +37,19 @@ Feel free to explore my projects and contributions!
   - RESTful APIs
   - Token-based Authentication
 
-##🌟 Highlights
+---
+
+## 🌟 Highlights
+
 - Full-stack development with a focus on delivering clean, maintainable code.
 - Experience in implementing token-based authentication and secure API interactions.
 - Enthusiastic about exploring new technologies and contributing to open-source projects.
+
+---
+
+<!---
+FriedmanChani/FriedmanChani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 
